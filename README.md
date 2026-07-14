@@ -100,8 +100,6 @@ AI, RAG, Docker 등 다양한 기술을 실제 프로젝트에 적용하며,
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sinjinwoo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://ghchart.rshah.org/tokyonight/sinjinwoo" alt="Jinwoo's GitHub Contribution Grass" width="100%" />
-
 </div>
 
 <br/>
